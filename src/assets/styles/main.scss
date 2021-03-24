@@ -1,0 +1,11 @@
+@import './iconfont/iconfont.css';
+.name{
+  color: blue;
+  background: url(../images/test.png) no-repeat;
+  .child{
+    color: green;
+    .czw{
+      font-family: 'Courier New', Courier, monospace;
+    }
+  }
+}

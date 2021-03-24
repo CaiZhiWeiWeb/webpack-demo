@@ -1,0 +1,33 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1615878527653'); /* IE9 */
+  src: url('iconfont.eot?t=1615878527653#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQ8AAsAAAAACNgAAAPuAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqEdIQSATYCJAMUCwwABCAFhG0HTBuiBxEVnFfJvjgwbjoPK+Z+jnPTffCGFTWS7nPwwOdZ7yOZbDqCF3I7C7uzAK+gbrpJaAIEtPVocLy9+mw3ac4RyAkTNVmStSOPvnD/Tcv5dDBxOf3/yhJY03KZY2NRF2AcUIBjbrICKecsYtfNVg8mcD0EYBNLNqJeg2btsNCI3QQgBg/o1wPLo0Yn5AosBGbEWI1YioEl58nLwBLj8+INhcICiaEQ+7bqW783tZ6Hvmip3B43nTUATnVG4DYJFJANaBAjI82DUVY4G4X9+Z2mFmBjIZHPQ59Xft7rRUuPhy9/QFJbioBGVvPnCRNR7A1ErYiG56EK25FUhhIJSS/QoOBFS+6yrGUAYAMBwGngExGZjNjYNApDI+jllWzbRqdA08cnJKKbA9ulLN7baRsB2rtne1w+hv+ofmvKQ0NXzw/u3VclC17pDunTmyxk1YKwfn2EYXGbT/IX5Tscfgu2gXZvtX3nbxeGq73D6aAHla0JW7M+1Lnanr8yGHfIqk1hw9aenH86stvm7ZFiw44F2yJYu7WsALMM1m0P99Y+vvOP7y6PcokbN1zXrrWn/Tr3zqNDV64SmXUI1mBgqHO9ENevO69ebYc7+GahX/l4tQo92nfFTxf/fPP+nxa/jZwz4kqbVlQZVVrxRPxJcTH+osmQmLpTnEg8bheXnow/IS7FXyoVmSQUKZpQ6XHv6BERnojtihQzgW3bKg+vLCtGVtIQle5eeGF0wyajV53t1sb09uw1Uzo22EhTH7/ttbb7Nd0cv1blynWp62SuWjukjW+i7zxOFR2Ivn0q5YfVd2YdqNzytpy0ceMkVSDBwL63K7c8kOWs364sOSyoj5lv9gkKS67YbG/wHdFt2rRuUmIQgwbeCd7DeAA8qN+qs4FeTZNf0Kklyi+qGqRqXhffIX4Wo7v5VftmOTQAd8dOnAaXB01x9sGVkJlzFXAyVugvT9QY+l2qsN8egxYcY7H8xG3AA3sg96uxhoBjFFh3DvASL2LwCotkUCOy8QYOij0mFkPMBpssGmKygyBGohC6ApDJLIYX+LMHL/HlDF7hzxVQI+7hDUJ5hzfxFwpv43l3mHPvGO9OgkSRU/onzrrWyDrdmbl32LFOxM0zUG+IYx+FXuCP3dBCqhjgPjZSNWSka+jKNkNdd9RLVyJTr1DtY983US/ysq6Z7JwISCjIkdQfYZlOy2i11S7w/juwRrWEJJT90L+BcLhxEvIEGcCbuM1UtiuXOB9WRCmDGKLTIFdmhFoKd0gf3aoEGeUpCgR7MZ+qmaxir3lps47rAJv4TCMplNDCECbr4VxisbJj0qa8/HCObq3849aGkwkAAA==') format('woff2'),
+  url('iconfont.woff?t=1615878527653') format('woff'),
+  url('iconfont.ttf?t=1615878527653') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1615878527653#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-message:before {
+  content: "\e74f";
+}
+
+.icon-guanbi:before {
+  content: "\e639";
+}
+
+.icon-video:before {
+  content: "\e663";
+}
+
+.icon-tixing1:before {
+  content: "\e616";
+}
+
